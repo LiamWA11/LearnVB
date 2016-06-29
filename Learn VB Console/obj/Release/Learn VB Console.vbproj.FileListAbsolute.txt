@@ -1,0 +1,9 @@
+C:\Users\langus\Desktop\Development\VB Tutorials\Learn VB Console\Learn VB Console\bin\Release\Learn VB Console.exe.config
+C:\Users\langus\Desktop\Development\VB Tutorials\Learn VB Console\Learn VB Console\bin\Release\Learn VB Console.exe
+C:\Users\langus\Desktop\Development\VB Tutorials\Learn VB Console\Learn VB Console\bin\Release\Learn VB Console.pdb
+C:\Users\langus\Desktop\Development\VB Tutorials\Learn VB Console\Learn VB Console\bin\Release\Learn VB Console.xml
+C:\Users\langus\Desktop\Development\VB Tutorials\Learn VB Console\Learn VB Console\obj\Release\Learn_VB_Console.Resources.resources
+C:\Users\langus\Desktop\Development\VB Tutorials\Learn VB Console\Learn VB Console\obj\Release\Learn VB Console.vbproj.GenerateResource.Cache
+C:\Users\langus\Desktop\Development\VB Tutorials\Learn VB Console\Learn VB Console\obj\Release\Learn VB Console.exe
+C:\Users\langus\Desktop\Development\VB Tutorials\Learn VB Console\Learn VB Console\obj\Release\Learn VB Console.xml
+C:\Users\langus\Desktop\Development\VB Tutorials\Learn VB Console\Learn VB Console\obj\Release\Learn VB Console.pdb
